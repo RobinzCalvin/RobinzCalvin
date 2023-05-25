@@ -1,8 +1,8 @@
 ## 🙌 Welcome to my profile 🙌
 
-Full Stack Web and Blockchain and Mobile Apps and Software Developer 
+E-commerce(Shopify | Shopify Plus | MERN | Prestashop) Developer 
 
-Hello, Hope you are doing well. I am a full-stack developer and have been working in the web development field for more than 10 years.
+Hello, Hope you are doing well. I am a Shopify developer and have been working in the web development field for more than 7+ years.
 I have started to work Web development in a significant development team. The unique value I talk to you about is going beyond just coding and tech-speak and effectively working with you to understand your goals and improve them into a website and web application that is beautiful, realistic, effective, and easy to manage. I aspire to be a reliable partner for you who can help you grow your business through your website and web application.
 
 Through working together, you will find I am responsive, communicative, transparent, and I work hard for my clients.
@@ -12,6 +12,7 @@ Through working together, you will find I am responsive, communicative, transpar
 <img src="https://github.com/NikitaRaik/NikitaRaik/blob/main/git%20profile%20icons/8TEoXxyzc_aladdinGene.gif" width="35" height="35"/> I am ready to start your project anytime.
 
 ## Skills
+- 🖥️ <b>E-commerce Development</b> :Shopify, Shopify Plus, Shopify Theme, Shopify SEO, Shopify template, Shopify App
 
 - 🖥️ <b>Front-end</b> : React js - Redux / Next.js / Svelte / TypeScript / Vue.js / Angular / JQuery / Bootstrap / Kendo UI
 - 👨‍💻 <b>Back-end</b> : Laravel / Node.js / Express / Django / Flask / ASP.NET / Ruby on Rails
